@@ -67,6 +67,8 @@ GEM
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
+    masonry-rails (0.2.4)
+      railties
     method_source (0.8.2)
     mime-types (1.25.1)
     minitest (5.5.1)
@@ -155,6 +157,7 @@ DEPENDENCIES
   haml (~> 4.0.6)
   jbuilder (~> 2.0)
   jquery-rails
+  masonry-rails (~> 0.2.4)
   paperclip (~> 4.2.1)
   pry
   rails (= 4.1.1)
